@@ -60,7 +60,7 @@
 
 - **[Linter checks]**
 - **[CRA]**
-- **[JavaScript APIs]**
+- **[TypeScript APIs]**
 - **[CSS grid and flexbox]**
 
 
